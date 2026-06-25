@@ -18,7 +18,7 @@ I learn by building, experimenting, and understanding how systems work from the 
 ---
 
 Featured Projects
-
+status: In Progress
 ### 🗣 Pashto NLP Research Project *(In Progress — Publication Focused)*  
 Developing a Natural Language Processing model for **Pashto**, a low-resource language, focused on improving language understanding and representation using transformer-based multilingual architectures.
 
@@ -30,7 +30,7 @@ Hugging Face Transformers • XLM-RoBERTa • RoBERTa • PyTorch • NLP • Tr
 *Status: Research & Development Phase (Planned for publication)*
 
 ---
-
+status: Prototype
 ### 👁 Threat Vision AI Model  
 An AI-powered computer vision model designed for intelligent threat detection and image-based classification of potentially dangerous objects or scenarios.
 
